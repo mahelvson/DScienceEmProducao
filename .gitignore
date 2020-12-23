@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.csv
 
 # Distribution / packaging
 .Python
@@ -12,6 +13,10 @@ build/
 develop-eggs/
 dist/
 downloads/
+Lib/
+deactivate/
+Scripts/
+share/
 eggs/
 .eggs/
 lib/
