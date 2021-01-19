@@ -1,0 +1,6 @@
+[submodule "rossmann-telegram-api"]
+	path = rossmann-telegram-api
+	url = https://github.com/mahelvson/DScienceEmProducao.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/mahelvson/DScienceEmProducao.git
